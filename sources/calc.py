@@ -32,4 +32,5 @@ def meto(a1):
     b=2
     c=3
     b=4
+    en='ok'
     pass
