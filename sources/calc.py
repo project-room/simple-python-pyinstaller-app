@@ -27,11 +27,3 @@ def add2(arg1, arg2):
         arg2conv = str(arg2conv)
     return arg1conv + arg2conv
 
-def meto(a1):
-    a=1
-    b=2
-    c=3
-    b=4
-    en='ok'
-    p='hah'
-    pass
