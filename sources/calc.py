@@ -27,5 +27,3 @@ def add2(arg1, arg2):
         arg2conv = str(arg2conv)
     return arg1conv + arg2conv
 
-def test():
-    pass
