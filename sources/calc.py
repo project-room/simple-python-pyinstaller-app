@@ -29,4 +29,6 @@ def add2(arg1, arg2):
 
 def meto(a1):
     a=1
+    b=2
+    c=3
     pass
